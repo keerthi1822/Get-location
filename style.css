@@ -1,0 +1,10 @@
+body {
+  background-image: url('globe.jpg');
+  background-size: cover;
+}
+.checklocation {
+  margin: auto;
+}
+p {
+  color: whitesmoke;
+}
